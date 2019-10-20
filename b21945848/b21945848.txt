@@ -1,0 +1,15 @@
+<NAME>
+Ayberk 
+<SURNAME>
+AYGÜN
+<ID>
+21945848
+<MAÝL>
+ayberk.aygun07@gmail.com or b21945848@cs.hacettepe.edu.tr
+<SHORT SELF-INTRODUCTORY TEXT>
+	Hi I'm Ayberk.I come from Ýzmir.I always interesting about computer and math since i was 7 so i am happy for be student of computer science.
+I hope ý will become succesful as much as ý am concerned.This is my first assignment and sorry for my mistakes if any exist.
+	I acknowledge that ý have fully red and understood the contents of the course website; I will not share my work (not even part of it)
+on Piazza; I will be responsible for what hass been discussed/asked on Piazza; I will not expect any response for my questions that have 
+already been asked or written in a language other than English.I understand that if ý have any questions or concerns aabout the course mechanics,
+it is my responsibility to discuss them with instructors within their office hours.
